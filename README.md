@@ -1,2 +1,2 @@
-# website
-This is my website
+# Website-Sketch
+The sketch for the OpenDay website.
